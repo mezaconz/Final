@@ -6,8 +6,8 @@ if __name__ == '__main__':
        
 
     #Agregar
-    agr = insertar(base_url,"Alexis","500")
-    print(agr)
+    #agr = insertar(base_url,"Alexis","500")
+    #print(agr)
 
     #Listar
     rpta = listar(base_url)
@@ -18,5 +18,5 @@ if __name__ == '__main__':
     #print(dlt)
 
     #Actualizar
-    #act=actualizar(base_url,"1","Alberto","666")
+    #act=actualizar(base_url,"100","Alberto","666")
     #print(act)
